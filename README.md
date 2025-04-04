@@ -1,7 +1,3 @@
-Below is the README in Markdown format without any setup or deployment instructions:
-
----
-
 # GT-MOVIES-STORE
 
 GT-MOVIES-STORE is a Django-based web application for browsing and managing a movie catalog. It provides users with an intuitive interface to search and filter movies, view detailed information, and manage user profiles, while the admin interface enables efficient content management.
